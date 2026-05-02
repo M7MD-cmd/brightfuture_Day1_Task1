@@ -1,0 +1,14 @@
+D:\backend\Hero_Task\bin\Debug\net8.0\Hero_Task.exe
+D:\backend\Hero_Task\bin\Debug\net8.0\Hero_Task.deps.json
+D:\backend\Hero_Task\bin\Debug\net8.0\Hero_Task.runtimeconfig.json
+D:\backend\Hero_Task\bin\Debug\net8.0\Hero_Task.dll
+D:\backend\Hero_Task\bin\Debug\net8.0\Hero_Task.pdb
+D:\backend\Hero_Task\obj\Debug\net8.0\Hero_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\Hero_Task\obj\Debug\net8.0\Hero_Task.AssemblyInfoInputs.cache
+D:\backend\Hero_Task\obj\Debug\net8.0\Hero_Task.AssemblyInfo.cs
+D:\backend\Hero_Task\obj\Debug\net8.0\Hero_Task.csproj.CoreCompileInputs.cache
+D:\backend\Hero_Task\obj\Debug\net8.0\Hero_Task.dll
+D:\backend\Hero_Task\obj\Debug\net8.0\refint\Hero_Task.dll
+D:\backend\Hero_Task\obj\Debug\net8.0\Hero_Task.pdb
+D:\backend\Hero_Task\obj\Debug\net8.0\Hero_Task.genruntimeconfig.cache
+D:\backend\Hero_Task\obj\Debug\net8.0\ref\Hero_Task.dll
